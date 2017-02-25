@@ -1,0 +1,1 @@
+sorted(iterable, cmp=None, key=None, reverse=False) --> new sorted list
